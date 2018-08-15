@@ -66,6 +66,15 @@
 }
 
 @include mediaSm {
+
+  #about h1.lg-heading {
+    font-size: 5rem;
+  }
+
+  .boxes div {
+    font-size: 1.5rem;
+  }
+
   main#home h1 {
     margin-top: 10vh;
   }
